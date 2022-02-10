@@ -7,10 +7,10 @@ MS SQL Server to MySQL, 데이터 마이그레이션 프로그램입니다.
   - py소스 밑에 csv_res 라는 빈폴더를 생성해주세요.
   - (그래야, 결과를 csv로 내보낼 수 있습니다.)
   - 아래의 모듈 install이 필요합니다.
-  - # pip install pymssql
-  - # pip install pymysql
-  - # pip install pandas
-  - # pip install PyQt5
+  - pip install pymssql
+  - pip install pymysql
+  - pip install pandas
+  - pip install PyQt5
 
 개발관련 참고 사항
 - 사용, 변경 배포 자유입니다. 개인적으로 필요해서 개발한 것을 배포하는겁니다.
